@@ -1,3 +1,9 @@
+---
+title: this is a test
+layout: post
+permalink: /thisisatest/
+---
+
 # this is a test
 this is a test
 
