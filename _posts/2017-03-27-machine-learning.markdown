@@ -11,7 +11,7 @@ author: 兽师兄
 ---
 机器学习
 
-[mechina learning](http://beastsenior.me/machinelearning/thisisatest)
+[mechina learning](http://beastsenior.me/thisisatest)
 
 ![Karna]({{site.baseurl}}/images/zs-2.jpg)
  
