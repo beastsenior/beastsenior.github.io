@@ -1,7 +1,7 @@
 ---
 title: this is a test
 layout: post
-permalink: /thisisatest/
+permalink: /machinelearning/thisisatest/
 ---
 
 # this is a test
