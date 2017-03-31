@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "谁是兽师兄？"
+title:  "谁是兽师兄"
 description: 清水河的时光
 date:   2017-03-02 07:10:47 +0530
 img: who-is-beastsenior1.jpg
