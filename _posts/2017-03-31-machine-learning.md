@@ -2,7 +2,7 @@
 layout: post
 title:  "机器学习"
 description: 机器是如何学习的
-date:   2017-03-30 22:10:47 +0530
+date:   2017-03-31 22:10:47 +0530
 img: ml1.jpg
 color: 7E57C2
 author: 兽师兄
