@@ -53,3 +53,7 @@ ul.contact-ul {
 </style>
 
 Email: beastsenior.qsh@gmail.com
+
+新浪微博：http://weibo.com/u/5684166563
+
+今日头条号：
