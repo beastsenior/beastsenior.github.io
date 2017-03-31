@@ -55,10 +55,13 @@ ul.contact-ul {
 Email: beastsenior.qsh@gmail.com
 
 新浪微博：http://weibo.com/u/5684166563
+
 ![](/images/2/weibo.png)
 
 今日头条号：兽师兄
+
 ![](/images/2/toutiao.jpeg)
 
 微信公众号：beastsenior
+
 ![](/images/2/wechat.jpg)
