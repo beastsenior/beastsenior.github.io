@@ -2,7 +2,7 @@
 layout: post
 title:  "网站架设"
 description: 网站是怎么建立的
-date:   2017-04-08 22:10:47 +0530
+date:   2017-04-08
 img: website1.jpg
 color: BF360C
 author: 兽师兄
