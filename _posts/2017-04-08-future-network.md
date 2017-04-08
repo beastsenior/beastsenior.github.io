@@ -4,7 +4,7 @@ title:  "未来网络"
 description: 在GENI里做实验，看看有没有不变的誓言
 date:   2017-04-08 22:10:47 +0530
 img: future-network1.jpg
-color: '006064'
+color: 43A047
 author: 兽师兄
 ---
 
