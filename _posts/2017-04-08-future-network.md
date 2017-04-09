@@ -8,7 +8,7 @@ color: 43A047
 author: 兽师兄
 ---
 
-GENI（Global Environment for Network Innovations）是美国国家科学基金资助的未来网络研究项目，实验人员可以在GENI中建立自己专属的实验网络，一起去看看GENI是怎么玩的吧。
+为了加速下一代互联网创新，美国国家科学基金资助了一个叫做GENI（Global Environment for Network Innovations）的研究项目。目前GENI已经建成全球最大的未来网络试验床。科研人员可以在GENI中建立自己专属的实验网络，一起去看看GENI是怎么玩的吧。
 
 ---
 1 GENI是什么
