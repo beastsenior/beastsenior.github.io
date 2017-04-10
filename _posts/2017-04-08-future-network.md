@@ -11,7 +11,11 @@ author: 兽师兄
 为了加速下一代互联网创新，美国国家科学基金资助了一个叫做GENI（Global Environment for Network Innovations）的研究项目。目前GENI已经建成全球最大的未来网络试验床。科研人员可以在GENI中建立自己专属的实验网络，一起去看看GENI是怎么玩的吧。
 
 ---
-1 GENI是什么
+1 未来网络和GENI系统
+[Youtube](https://youtu.be/sXhahiqBOkc){: target="_blank"}
+[优酷](http://v.youku.com/v_show/id_XMjcwMDIxMjM1Mg==){: target="_blank"}
+
+2 在GENI中创建拓扑
 
 待续...
 
