@@ -12,7 +12,6 @@ author: 兽师兄
 
 ---
 1 人工智能与大数据、云计算的关系 （2017.4.9）
-
 [Youtube](https://youtu.be/hRJd6cvj7UE){: target="_blank"}
 [优酷](http://v.youku.com/v_show/id_XMjY5NjgwNDUwOA==){: target="_blank"}
 
