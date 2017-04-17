@@ -2,7 +2,7 @@
 layout: post
 title:  "未来网络"
 description: 在GENI里做实验，看看有没有不变的誓言
-date:   2017-04-10 22:10:47 +0530
+date:   2017-04-17 22:10:47 +0530
 img: future-network1.jpg
 color: 43A047
 author: 兽师兄
@@ -15,7 +15,10 @@ author: 兽师兄
 [Youtube](https://youtu.be/sXhahiqBOkc){: target="_blank"}
 [优酷](http://v.youku.com/v_show/id_XMjcwMDIxMjM1Mg==){: target="_blank"}
 
-2 在GENI中创建拓扑
+2 登录GENI系统（上） （2017.4.17）
+[Youtube](https://youtu.be/xIIh68v_glg){: target="_blank"}
+[优酷](http://v.youku.com/v_show/id_XMjcxMzEyNjYyMA==.html){: target="_blank"}
+
 
 待续...
 
