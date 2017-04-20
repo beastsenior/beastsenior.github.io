@@ -2,7 +2,7 @@
 layout: post
 title:  "机器学习"
 description: 机器是如何学习的
-date:   2017-04-09 22:10:47 +0530
+date:   2017-04-20 22:10:47 +0530
 img: ml1.jpg
 color: 7E57C2
 author: 兽师兄
@@ -15,7 +15,15 @@ author: 兽师兄
 [Youtube](https://youtu.be/hRJd6cvj7UE){: target="_blank"}
 [优酷](http://v.youku.com/v_show/id_XMjY5NjgwNDUwOA==){: target="_blank"}
 
-2 阿尔法狗的原理
+2 眼见：Linux命令行安装Python （2017.4.19）
+[Youtube](https://youtu.be/tsTZf0dOIsY){: target="_blank"}
+[优酷](){: target="_blank"}
+
+3 眼见：Linux命令行安装Tensorflow （2017.4.20）
+[Youtube](https://youtu.be/C8I9xGAUzd8){: target="_blank"}
+[优酷](){: target="_blank"}
+
+4 阿尔法狗的原理
 
 待续...
 
