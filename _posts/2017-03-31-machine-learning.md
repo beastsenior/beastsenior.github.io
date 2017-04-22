@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "机器学习"
-description: 机器是如何学习的
-date:   2017-04-20 22:10:47 +0530
+description: 智人时代快结束了，一起来撒把土
+date:   2017-04-22 22:10:47 +0530
 img: ml1.jpg
 color: 7E57C2
 author: 兽师兄
@@ -23,7 +23,11 @@ author: 兽师兄
 [Youtube](https://youtu.be/C8I9xGAUzd8){: target="_blank"}
 [优酷](){: target="_blank"}
 
-4 阿尔法狗的原理
+4 眼见：玩转分布式Tensorflow (1) （2017.4.22）
+[Youtube](https://youtu.be/HX2Dgr9jxSY){: target="_blank"}
+[优酷](){: target="_blank"}
+
+5 阿尔法狗的原理
 
 待续...
 
