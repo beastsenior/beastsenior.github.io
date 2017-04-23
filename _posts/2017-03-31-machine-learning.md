@@ -17,15 +17,15 @@ author: 兽师兄
 
 2 眼见：Linux命令行安装Python （2017.4.19）
 [Youtube](https://youtu.be/tsTZf0dOIsY){: target="_blank"}
-[优酷](){: target="_blank"}
+[优酷](http://v.youku.com/v_show/id_XMjcyMjc0MTM3Ng==){: target="_blank"}
 
 3 眼见：Linux命令行安装Tensorflow （2017.4.20）
 [Youtube](https://youtu.be/C8I9xGAUzd8){: target="_blank"}
-[优酷](){: target="_blank"}
+[优酷](http://v.youku.com/v_show/id_XMjcyMjc1MTIyMA==){: target="_blank"}
 
 4 眼见：玩转分布式Tensorflow (1) （2017.4.22）
 [Youtube](https://youtu.be/HX2Dgr9jxSY){: target="_blank"}
-[优酷](){: target="_blank"}
+[优酷](http://v.youku.com/v_show/id_XMjcyMjc1MTQ4MA==){: target="_blank"}
 
 5 阿尔法狗的原理
 
