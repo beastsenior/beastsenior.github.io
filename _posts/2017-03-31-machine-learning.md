@@ -2,7 +2,7 @@
 layout: post
 title:  "机器学习"
 description: 智人时代快结束了，一起来撒把土
-date:   2017-04-22 22:10:47 +0530
+date:   2017-05-12 22:10:47 +0530
 img: ml1.jpg
 color: 7E57C2
 author: 兽师兄
@@ -27,7 +27,12 @@ author: 兽师兄
 [Youtube](https://youtu.be/HX2Dgr9jxSY){: target="_blank"}
 [优酷](http://v.youku.com/v_show/id_XMjcyMjc1MTQ4MA==){: target="_blank"}
 
-5 阿尔法狗的原理
+5 眼见：基于Docker搭建Tensorflow开发环境 （2017.5.12）
+[Youtube](https://youtu.be/sB07YOwW0SY){: target="_blank"}
+[优酷](){: target="_blank"}
+
+
+6 阿尔法狗的原理
 
 待续...
 
