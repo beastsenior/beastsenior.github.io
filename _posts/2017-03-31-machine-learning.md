@@ -29,7 +29,7 @@ author: 兽师兄
 
 5 眼见：基于Docker搭建Tensorflow开发环境 （2017.5.12）
 [Youtube](https://youtu.be/sB07YOwW0SY){: target="_blank"}
-[优酷](){: target="_blank"}
+[优酷](http://v.youku.com/v_show/id_XMjc2MDMyNTM1Mg==.html){: target="_blank"}
 
 
 6 阿尔法狗的原理
