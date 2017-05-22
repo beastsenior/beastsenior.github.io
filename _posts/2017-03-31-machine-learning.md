@@ -36,8 +36,8 @@ author: 兽师兄
 [优酷](){: target="_blank"}
 
 7 三分钟看懂阿尔法狗
-[Youtube](){: target="_blank"}
-[优酷](){: target="_blank"}
+[Youtube](https://youtu.be/MBI0RvmQHiY){: target="_blank"}
+[优酷](http://v.youku.com/v_show/id_XMjc3OTM2Mzg1Mg==.html){: target="_blank"}
 
 待续...
 
