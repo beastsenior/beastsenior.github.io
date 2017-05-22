@@ -2,7 +2,7 @@
 layout: post
 title:  "机器学习"
 description: 智人时代快结束了，一起来撒把土
-date:   2017-05-12 22:10:47 +0530
+date:   2017-05-22 22:10:47 +0530
 img: ml1.jpg
 color: 7E57C2
 author: 兽师兄
@@ -31,8 +31,13 @@ author: 兽师兄
 [Youtube](https://youtu.be/sB07YOwW0SY){: target="_blank"}
 [优酷](http://v.youku.com/v_show/id_XMjc2MDMyNTM1Mg==.html){: target="_blank"}
 
+6 眼见：玩转分布式Tensorflow (2) （2017.5.22）
+[Youtube](https://youtu.be/8dgFKeTq2Us){: target="_blank"}
+[优酷](){: target="_blank"}
 
-6 阿尔法狗的原理
+7 三分钟看懂阿尔法狗
+[Youtube](){: target="_blank"}
+[优酷](){: target="_blank"}
 
 待续...
 
